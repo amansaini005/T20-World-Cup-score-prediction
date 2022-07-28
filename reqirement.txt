@@ -1,5 +1,5 @@
-import streamlit as st
-import pandas as pd
-import numpy as np
-sklearn
-import pickle
+streamlit==1.11.0
+pandas==1.4.3
+numpy==1.23.1
+scikit-learn==1.1.1
+pickle==0.7.5
