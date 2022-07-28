@@ -1,0 +1,26 @@
+T20 WORLD CUP 1st Inning Score Prediction
+
+Regression models:
+
+1. Linear Regression:
+
+mean_sqaured_error :  240.821414030711
+root _mean_sqaured_error:  15.518421763527082
+mean_absolute_error : 10.574815234461798
+r2_score :  0.801610172683961
+
+
+2. Decission Tree Regressor:
+
+mean_sqaured_error :  18.36286594761171
+root _mean_sqaured_error:  4.285191471522796
+mean_absolute_error : 0.5446841294298922
+r2_score :  0.9848725836153853
+
+
+3. RandomForestRegressor:
+
+mean_sqaured_error :  8.312059450436568
+root _mean_sqaured_error:  2.8830642466716845
+mean_absolute_error : 0.9341679506933743
+r2_score :  0.9929422387872224
