@@ -1,6 +1,9 @@
 mkdir -p ~/.streamlit/
 
 echo "\
+[general]\n\
+email = \"amaner24@gmail.com\"\n\
+" > ~/.streamlit/credentials.toml
 
 [server]\n\
 port = $PORT\n\
